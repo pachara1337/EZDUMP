@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "elK4rdzCM/9PJjCfiWcCQHKJOfj0VfsTrwBxMHXfspzh7sbP4iAWXWKJGL1SL/bDa2d7ED/QWdsVksZp9wvkJw==",
+  "success": true,
+  "projectFilePath": "D:\\Code D\\EZDUMP\\EZDUMP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pacha\\.nuget\\packages\\spectre.console\\0.44.0\\spectre.console.0.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}
